@@ -817,12 +817,12 @@ Categories & Collections Style
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  padding: 120px 0px 150px 0px;
+  padding: 0px 150px 150px 100px;
   position: relative;
 }
 
 .categories-collections:after {
-  background-image: url(/assets/images/category-collection-dec.png);
+  /* background-image: url(/assets/images/discover-03.jpg); */
   width: 300px;
   height: 282px;
   position: absolute;
