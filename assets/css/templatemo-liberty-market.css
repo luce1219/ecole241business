@@ -40,7 +40,9 @@ figure, header, nav, section, article, aside, footer, figcaption {
   border: 0;
   outline: 0;
 }
-
+.text-container {
+  
+}
 .clearfix:after {
   content: ".";
   display: block;
